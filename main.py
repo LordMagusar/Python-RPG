@@ -3,9 +3,7 @@ import math
 
 
 def MenuSelection(array):
-	while True:
-		
-			
+	while True:			
 		listPrint(array)
 		print("\n>>")
 		choice = input()
